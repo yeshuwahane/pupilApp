@@ -1,6 +1,6 @@
-# Zenithra: MangaVerse Reader
+# Anime Infinite 
 
-![Zenithra](https://raw.githubusercontent.com/yeshuwahane/pupilApp/refs/heads/main/screenshots/pupilMesh.png)
+![Anime Infinite ](https://raw.githubusercontent.com/yeshuwahane/pupilApp/refs/heads/main/screenshots/pupilMesh.png)
 
 ### Download Options:
 #### <a href="https://github.com/yeshuwahane/pupilApp/releases/tag/release">Github Release</a>
