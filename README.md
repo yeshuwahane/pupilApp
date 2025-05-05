@@ -1,4 +1,4 @@
-# Anime Infinite 
+# Pupil  
 
 ![Anime Infinite ](https://raw.githubusercontent.com/yeshuwahane/pupilApp/refs/heads/main/screenshots/pupilMesh.png)
 
