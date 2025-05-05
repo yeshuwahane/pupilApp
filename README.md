@@ -5,7 +5,7 @@
 ### Download Options:
 #### <a href="https://github.com/yeshuwahane/pupilApp/releases/tag/release">Github Release</a>
 
-Zenithra is a modern, production-grade Android app built as part of the Pupilmesh assignment using the MangaVerse API. This application demonstrates clean architecture, offline-first support, camera-based face detection, and Compose UI best practices.
+Pupil is a modern, production-grade Android app built using the MangaVerse API. This application demonstrates clean architecture, offline-first support, camera-based face detection, and Compose UI best practices.
 
 ---
 
